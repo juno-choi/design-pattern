@@ -1,0 +1,5 @@
+#adapter pattern
+#Tue Oct 15 10:16:58 KST 2024
+depth=32
+height=512
+width=1024
